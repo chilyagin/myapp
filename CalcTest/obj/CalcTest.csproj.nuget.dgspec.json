@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj": {}
+    "c:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj": {
+    "c:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj",
+        "projectUniqueName": "c:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj",
         "projectName": "CalcTest",
-        "projectPath": "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj",
+        "projectPath": "c:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj",
         "packagesPath": "C:\\Users\\achilyagin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\obj\\",
+        "outputPath": "c:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\achilyagin\\AppData\\Roaming\\NuGet\\NuGet.Config"

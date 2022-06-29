@@ -1,9 +1,9 @@
 c:\Users\achilyagin\Documents\Code\myapp\CalcTest\bin\Debug\netstandard2.0\CalcTest.deps.json
-C:\Users\achilyagin\Documents\Code\myapp\CalcTest\bin\Debug\netstandard2.0\CalcTest.dll
-C:\Users\achilyagin\Documents\Code\myapp\CalcTest\bin\Debug\netstandard2.0\CalcTest.pdb
-C:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.csprojAssemblyReference.cache
-C:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.AssemblyInfoInputs.cache
-C:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.AssemblyInfo.cs
-C:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.csproj.CoreCompileInputs.cache
-C:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.dll
-C:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.pdb
+c:\Users\achilyagin\Documents\Code\myapp\CalcTest\bin\Debug\netstandard2.0\CalcTest.dll
+c:\Users\achilyagin\Documents\Code\myapp\CalcTest\bin\Debug\netstandard2.0\CalcTest.pdb
+c:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.csprojAssemblyReference.cache
+c:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.AssemblyInfoInputs.cache
+c:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.AssemblyInfo.cs
+c:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.csproj.CoreCompileInputs.cache
+c:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.dll
+c:\Users\achilyagin\Documents\Code\myapp\CalcTest\obj\Debug\netstandard2.0\CalcTest.pdb

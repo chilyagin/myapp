@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\hw\\hw.csproj",
+      "projectUniqueName": "c:\\Users\\achilyagin\\Documents\\Code\\myapp\\hw\\hw.csproj",
       "projectName": "hw",
-      "projectPath": "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\hw\\hw.csproj",
+      "projectPath": "c:\\Users\\achilyagin\\Documents\\Code\\myapp\\hw\\hw.csproj",
       "packagesPath": "C:\\Users\\achilyagin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\hw\\obj\\",
+      "outputPath": "c:\\Users\\achilyagin\\Documents\\Code\\myapp\\hw\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\achilyagin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,8 +50,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj": {
-              "projectPath": "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj"
+            "c:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj": {
+              "projectPath": "c:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj"
             }
           }
         }
