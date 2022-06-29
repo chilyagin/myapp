@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CalcTest
+namespace myapp.CalcTest
 {
     public static class Calc
     {

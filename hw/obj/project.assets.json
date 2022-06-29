@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "CalcTest/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CalcTest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalcTest.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CalcTest/1.0.0": {
+      "type": "project",
+      "path": "../CalcTest/CalcTest.csproj",
+      "msbuildProject": "../CalcTest/CalcTest.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "CalcTest >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\achilyagin\\.nuget\\packages\\": {}
@@ -30,7 +49,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj": {
+              "projectPath": "C:\\Users\\achilyagin\\Documents\\Code\\myapp\\CalcTest\\CalcTest.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

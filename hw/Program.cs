@@ -1,6 +1,7 @@
 ﻿using System;
+using myapp.CalcTest;
 
-namespace hw
+namespace myapp.hw
 {
     class Program
     {
@@ -8,7 +9,8 @@ namespace hw
         {
             int x = 10;
             int y = 22;
-            Console.WriteLine("x + y = {0}", );
+            Console.WriteLine("x + y = {0}", Calc.Sum(x, y));
+
         }
     }
 }
