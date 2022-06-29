@@ -6,7 +6,9 @@ namespace hw
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int x = 10;
+            int y = 22;
+            Console.WriteLine("x + y = {0}", );
         }
     }
 }
